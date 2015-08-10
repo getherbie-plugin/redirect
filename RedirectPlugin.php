@@ -12,7 +12,7 @@
 namespace herbie\plugin\redirect;
 
 use Herbie;
-use Symfony\Component\HttpFoundation\RedirectResponse;
+use Herbie\Http\RedirectResponse;
 
 class RedirectPlugin extends Herbie\Plugin
 {
