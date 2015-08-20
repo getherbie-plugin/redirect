@@ -17,9 +17,8 @@ use Herbie\Http\RedirectResponse;
 class RedirectPlugin extends Herbie\Plugin
 {
 
-    public function onPageLoaded(Herbie\Event $event)
+    public function onPageLoaded($page)
     {
-        $page = $event['page'];
         if (!empty($page->redirect)) {
             $url = $this->getUrl($page->redirect);
             $status = $this->getStatus($page->redirect);
