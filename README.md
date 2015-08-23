@@ -37,5 +37,6 @@ wie folgt machen:
       status: 301
     ---
  
-Der angegebene Statuscode muss im Bereich von 300 und 400 liegen. Mehr zu Thema HTTP-Statuscodes findest du auf 
+Der angegebene Statuscode muss im Bereich von 300 und 400 liegen. Mehr zum Thema HTTP-Statuscodes findest du auf 
 [link https://de.wikipedia.org/wiki/HTTP-Statuscode text="Wikipedia"].
+ 
