@@ -1,5 +1,4 @@
-Redirect Plugin
-===============
+# Redirect Plugin
 
 `Redirect` ist ein [Herbie](http://github.com/getherbie/herbie) Plugin, mit dem du auf einer beliebigen Seite eine
 Weiterleitung zu einer internen Seite oder externen URL vornehmen kannst. 
