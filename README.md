@@ -38,5 +38,4 @@ wie folgt machen:
     ---
  
 Der angegebene Statuscode muss im Bereich von 300 und 400 liegen. Mehr zum Thema HTTP-Statuscodes findest du auf 
-[link https://de.wikipedia.org/wiki/HTTP-Statuscode text="Wikipedia"].
- 
+[Wikipedia](https://de.wikipedia.org/wiki/HTTP-Statuscode).
