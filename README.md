@@ -23,7 +23,7 @@ Die Weiterleitung definierst du über die Seiteneigenschaften. Im einfachsten Fa
         
     ---
     title: Weiterleitung
-    redirect: http://www.getherbie.org
+    redirect: https://www.getherbie.org
     ---
 
 Per Default wird der HTTP-Statuscode 302 gesendet. Möchtest Du einen eigenen Statuscode senden, kannst du das
@@ -32,7 +32,7 @@ wie folgt machen:
     ---
     title: Weiterleitung
     redirect:
-      url: http://www.getherbie.org
+      url: https://www.getherbie.org
       status: 301
     ---
  
