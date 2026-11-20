@@ -1,3 +1,8 @@
+> [!WARNING]
+> **Deprecated.** Since Herbie 3.0, redirect is built into
+> [`getherbie/herbie`](https://github.com/getherbie/herbie). This plugin is no
+> longer maintained. Upgrade to Herbie 3 instead.
+
 # Redirect Plugin
 
 `Redirect` ist ein [Herbie](http://github.com/getherbie/herbie) Plugin, mit dem du auf einer beliebigen Seite eine
